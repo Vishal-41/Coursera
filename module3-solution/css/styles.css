@@ -121,5 +121,10 @@ body {
       width:100%;
       padding:30px;
   }
-
+  p+a{
+      color:navy;
+  }
+  p+a:hover{
+      color:rgb(53, 53, 228);
+  }
   
