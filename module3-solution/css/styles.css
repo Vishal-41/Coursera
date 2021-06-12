@@ -1,0 +1,125 @@
+body {
+    font-size: 16px;
+    color: #fff;
+    background-color: #8d4413;
+    font-family: 'Permanent Marker', cursive;
+  }
+  
+  /** HEADER **/
+  #header-nav {
+    background-color: #790000be;
+    border-radius: 0;
+    border: 0;
+    
+  }
+  
+ .but{
+    background-color: #000000a2;
+    margin-top:20px;
+    margin-bottom: 20px;
+    
+    margin-right:30px;
+    
+    }
+    #header-nav .container{
+        margin-left:0px;margin-right:0px;
+        padding:0;
+    }
+    #collapsable-nav{
+        margin-left:0px;margin-right:0px;
+    }
+
+    #collapsable-nav ul{
+        margin-bottom: 0;
+    }
+
+  .navbar-header{
+      clear:left;
+  }
+  .navbar-brand {
+    padding-top: 0px;
+  }
+  .navbar-brand h1 { /* Restaurant name */
+    font-family: 'Permanent Marker', cursive;
+    color: #428d16;
+    font-size: 2em;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-shadow: 1px 1px 1px rgb(2, 22, 44);
+    margin-top:20px;margin-left:30px;
+  }
+  h1#big.visible-sm{
+      width: fit-content;
+      margin-left: 30px;
+      color: #428d16; text-transform: uppercase;
+      margin-bottom: 20px;
+      font-size: 66px;
+      font-weight: bold;
+      text-shadow: 1px 1px 1px rgb(2, 22, 44);
+  }
+  
+  
+  .navbar-toggle .icon-bar {
+    display:block;
+    width: 22px;
+    height: 3px;
+   
+  }
+  #nav-list {
+    margin-top: 0px;
+    padding-top: 0px;
+    background-color: rgba(56, 11, 11, 0.432);
+    font-size: 1.5em;
+  }
+  hr{
+      margin-bottom: 0px;
+  }
+  #nav-list a {
+    color: #eff303;
+    text-align: center;
+  }
+  #nav-list li:hover {
+    background: #e7e7e752;
+  }
+  #nav-list a {
+    padding-top:25px;
+  }
+ 
+  
+  .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+    border: 1px solid #61122f;
+  }
+  .navbar-header button.navbar-toggle {
+    clear: both;
+    margin-top: -30px;
+  }
+
+  #menu{
+      font-family: Lora,sans;
+      font-weight: bolder;
+      font-size: 3em;
+      padding-top: 20px;
+  }
+  
+  .row h3{
+      text-align: center;
+  }
+  .row p{
+      text-align: justify;
+  }
+  .col1{
+      background-color: rgba(131, 124, 62, 0.712);
+      margin-top:30px;margin-bottom: 30px;
+  }
+  .col2{
+      background-color: rgba(61, 189, 114, 0.445);margin-top:0px;margin-bottom: 30px;
+  }
+  .col3{
+    background-color: rgba(135, 206, 250, 0.24);margin-top:0px;margin-bottom: 60px;
+  }
+  div.container#content{
+      width:100%;
+      padding:30px;
+  }
+
+  
